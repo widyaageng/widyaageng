@@ -1,5 +1,6 @@
+<div style="display:flex;flex-direction:row">
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="display:flex;width:25vw;margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
+	<img style="width:25vw;margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
 </a>
 <a href="https://github.com/widyaageng/github-readme-stats">
 	<img align="center" style="width:20vw;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
@@ -8,6 +9,7 @@
 <a href="https://github.com/widyaageng/github-readme-stats">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&theme=merko" />
 </a>
+	</div>
 <br>
 <br>
 
