@@ -1,10 +1,10 @@
 
 <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:50%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
+	<img style="width:45%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
 </a>
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:50%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
+	<img style="width:40%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
 </a>
 
 <a href="https://github.com/widyaageng/github-readme-stats">
