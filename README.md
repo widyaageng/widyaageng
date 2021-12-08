@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<div align="center"><b>I'm alright with:</b></div>
+<div align="center"><b>I'm alright with these lang:</b></div>
 
 <br>
 
@@ -25,14 +25,11 @@
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 	<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/widyaageng/widyaageng/main/img/labview.svg"></code>
 </div>
-## Main Languages Used
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffa500)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=008000)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=MATLAB)
 
-## Main Tools Used
+## Tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=007396)
