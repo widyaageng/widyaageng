@@ -1,12 +1,8 @@
-<!-- ![Widya's GitHub stats](https://github-readme-stats.vercel.app/api?username=widyaageng&count_private=true&show_icons=true&theme=merko)
-[![Widya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&theme=merko)](https://github.com/widyaageng/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&langs_count=8&theme=merko)](https://github.com/widyaageng/github-readme-stats)
- -->
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
+	<img style="width:30vw;margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
 </a>
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
+	<img align="center" style="width:20vw;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
 </a>
 
 <a href="https://github.com/widyaageng/github-readme-stats">
