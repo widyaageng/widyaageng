@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&theme=merko" />
+	<img style="width:85%;margin:auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&theme=merko" />
 </a>
 	</div>
 <br>
