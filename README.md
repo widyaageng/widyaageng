@@ -26,3 +26,18 @@
 	<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"></code>
 </div>
+## Main Languages Used
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffa500)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=008000)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=MATLAB)
+
+## Main Tools Used
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=007396)
+![BootStrap](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=800080)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git.js-000000?style=flat&logo=git&logoColor=f05033)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
