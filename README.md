@@ -1,9 +1,9 @@
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:25vw;margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
+	<img style="width:30%;margin:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
 </a>
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img align="center" style="width:20vw;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
+	<img align="center" style="width:30%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true" />
 </a>
 
 <a href="https://github.com/widyaageng/github-readme-stats">
