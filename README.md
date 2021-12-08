@@ -1,5 +1,5 @@
 
-<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
+<div align="center">
 <a href="https://github.com/widyaageng/github-readme-stats">
 	<img style="width:45%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Widya's github stats" />
 </a>
@@ -14,10 +14,11 @@
 <br>
 <br>
 
-**I'm alright with:**
+<div align="center"><b>I'm alright with:</b></div>
 
+<br>
 
-<div>
+<div align="center">
 	<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"></code>
 	<code><img height="20" src="https://preview.redd.it/1lihwxjxacxy.png?auto=webp&s=e2a63a20c6661bd68223aebf9dfb584963a01935"></code>
 	<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
