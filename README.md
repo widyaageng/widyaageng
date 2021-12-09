@@ -25,7 +25,7 @@
 	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 	<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 	<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"></code>
-	<code><img height="20" src="https://raw.githubusercontent.com/widyaageng/widyaageng/main/img/labview.svg"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/widyaageng/widyaageng/main/img/labview.jpg"></code>
 </div>
 
 
@@ -35,6 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=007396)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=800080)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git.js-000000?style=flat&logo=git&logoColor=f05033)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=f05033)
+![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
