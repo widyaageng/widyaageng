@@ -44,6 +44,6 @@
 	<li>Analog processing & low power Power Electronics.</li>
 	<li>Embedded system testing (with C++/python and I2C, CAN, SPI pheripherals).</li>
 	<li>Data analytics (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
-	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit first then tune down/regularized, I dont know why, just my style).</li>
+	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit first then tune down/regularized later with 2nd test set, I dont know why, just my style).</li>
 	<li>Equity market data processing and extraction + AI stuff (no way I publish this as public repo).</li>
 </ul>
