@@ -38,3 +38,12 @@
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&logoColor=FF7728)
+
+## Likely can do (not that I surely can):
+<ul>
+	<li>Analog processing & low power Power Electronics.</li>
+	<li>Embedded system testing (with C++/python and I2C, CAN, SPI pheripherals).</li>
+	<li>Data analytics (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
+	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit first then tune down/regularized, I dont know why, just my style).</li>
+	<li>Equity market data processing and extraction + AI stuff (no way I publish this as public repo).</li>
+</ul>
