@@ -44,6 +44,6 @@
 	<li>Embedded system testing (with C++/python and I2C, CAN, SPI pheripherals).</li>
 	<li>Fullstack WebDev (WIP): Backend (express, node, mongodb), Frontend (react-bootstrap, redux, sass, html5, jquery).</li>
 	<li>Data analytics (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
-	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit arch first then tune down/regularized CV later with k-2.5~3% set to add general noise to generalize better LOL, I dont know why, just my style).</li>
+	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit arch first then tune down/regularized CV later with k-2.5~3% set to add general noise to generalize better LOL, I dont know why, just my style</li>
 	<li>Equity market data processing and extraction + AI stuff (no way I publish this as public repo).</li>
 </ul>
