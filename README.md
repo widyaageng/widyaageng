@@ -4,7 +4,7 @@
 	<img style="width:45%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing bugs in..." alt="Widya's github stats" />
 </a>
 <a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:40%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=merko&hide_border=true&custom_title=Junk File Types here..." />
+	<img style="width:40%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide_border=true&custom_title=Junk File Types here..." />
 </a>
 
 <a href="https://github.com/widyaageng/github-readme-stats">
