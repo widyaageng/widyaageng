@@ -41,9 +41,9 @@
 ## Likely can do (not that I surely can):
 <ul>
 	<li>Analog processing & low power Power Electronics.</li>
-	<li>Embedded system testing (with C++/python and I2C, CAN, SPI pheripherals).</li>
-	<li>Fullstack WebDev (WIP): Backend (express, node, mongodb), Frontend (react-bootstrap, redux, sass, html5, jquery).</li>
+	<li>Embedded system testing (with C++/python and I2C, CAN, SPI, Modbus pheripherals).</li>
+	<li>Fullstack WebDev:<ul><li>Backend: express, node, mongodb, django, mssql</li><li>Frontend: react, bootstrap, redux, tailwindcss, jquery, typescript.</li></ul></li>
 	<li>Data Mining (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
-	<li>ML/Pattern Fitting (NLP: Huggingface Lib, semi vanilla BERT; Visual: OpenCV, vanilla CNN, RCNN for realtime; Classical: whatever architecture but will be ensembled, because overfit arch first then tune down/regularized CV later with k-2.5~3% set to add general noise to generalize better lol, I dont know why so dont ask me, it's just my shortcut because of getting pissed with overfitting things</li>
+	<li>ML/Pattern Fitting:<ul><li>NLP: Huggingface Lib, semi vanilla BERT;</li><li>Visual: OpenCV, vanilla CNN, RCNN for realtime;</li><li>Classical: whatever architecture but will be ensembled, because overfit arch first then tune down/regularized CV later with k-2.5~3% set to add general noise to generalize better lol, I dont know why so dont ask me, it's just my shortcut because of getting pissed with overfitting things.</li></ul></li>
 	<li>Equity market data processing and extraction + AI stuff (no way I publish this as public repo).</li>
 </ul>
