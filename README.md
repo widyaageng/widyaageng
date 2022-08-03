@@ -1,16 +1,10 @@
 
 <div align="center">
-<a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:45%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing bugs in..." alt="Widya's github stats" />
-</a>
-<a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:40%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide_border=true&custom_title=Junk File Types here..." />
-</a>
+<img style="width:45%;margin:auto;" src="https://github-readme-stats.vercel.app/api?username=widyaageng&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing bugs in..." alt="Widya's github stats" />
+<img style="width:40%;margin:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide_border=true&custom_title=Junk File Types here..." />
 
-<a href="https://github.com/widyaageng/github-readme-stats">
-	<img style="width:85%;margin:auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&langs_count=10&hide=restructuredtext&custom_title=Hours%20of%20Desperation%20(YTD)&theme=gotham" />
-</a>
-	</div>
+<img style="width:85%;margin:auto;" src="https://github-readme-stats.vercel.app/api/wakatime?username=widyaageng&langs_count=10&hide=restructuredtext&custom_title=Hours%20of%20Desperation%20(YTD)&theme=gotham" />
+</div>
 <br>
 <br>
 
