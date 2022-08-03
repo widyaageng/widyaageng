@@ -34,7 +34,7 @@
 
 ## Likely can do (not that I surely can):
 <ul>
-	<li>Analog processing & low power Power Electronics.</li>
+	<li>Analog processing and low power Power Electronics.</li>
 	<li>Embedded system testing (with C++/python/Labview and I2C, CAN, SPI, Modbus pheripherals and other low level machine interfaces).</li>
 	<li>Fullstack WebDev:<ul><li>Backend: express, node, mongodb, django, mssql;</li><li>Frontend: react, bootstrap, redux, tailwindcss, jquery, typescript;</li></ul></li>
 	<li>Data Mining (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
