@@ -16,7 +16,6 @@
 	<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png"></code>
 	<code><img height="20" src="https://preview.redd.it/1lihwxjxacxy.png?auto=webp&s=e2a63a20c6661bd68223aebf9dfb584963a01935"></code>
 	<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
-	<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 	<code><img height="20" src="https://raw.githubusercontent.com/widyaageng/widyaageng/main/img/labview.jpg"></code>
 </div>
 
