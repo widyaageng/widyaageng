@@ -31,12 +31,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&logoColor=FF7728)
 
-## Likely can do (not that I surely can):
-<ul>
-	<li>Analog processing and low power Power Electronics.</li>
-	<li>Embedded system testing (with C++/python/Labview and I2C, CAN, SPI, Modbus pheripherals and other low level machine interfaces).</li>
-	<li>Fullstack WebDev:<ul><li>Backend: express, ts-node, mongodb, django, mssql;</li><li>Frontend: ts-react, bootstrap, redux, tailwindcss, jquery;</li></ul></li>
-	<li>Data Mining (Scraping, Ingesting, Cleaning, Visualization, Distribution and its major stats).</li>
-	<li>ML/Pattern Fitting:<ul><li>NLP: Huggingface Lib, semi vanilla BERT;</li><li>Visual: OpenCV, vanilla CNN, RCNN for realtime;</li><li>Classical: whatever architecture but will be ensembled boost (throttled), because overfit arch first by throttling then tune down/regularized CV later with k-2.5~3% set to add general noise to generalize better (or braking/reverse lol), I dont know why so dont ask me, it's just my shortcut because of getting pissed with overfitting things;</li></ul></li>
-	<li>Equity market data processing and extraction + AI stuff (no way I publish this as public repo).</li>
-</ul>
+## What I do?
+stuff...
+project1...
+temp_project...
+junk...
+why_project...
