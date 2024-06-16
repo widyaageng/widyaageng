@@ -1,7 +1,7 @@
 
 <div align="center">
-<img style="width:45%;margin:auto;" src="https://ffb7-27-125-168-149.ngrok-free.app/?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing%20bugs%20in" />
-<img style="width:40%;margin:auto;" src="https://ffb7-27-125-168-149.ngrok-free.app/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide=python,jupyter%20notebook,html,matlab&hide_border=true&custom_title=Currently%20work%20with" />
+<img style="width:45%;margin:auto;" src="https://c765-27-125-168-149.ngrok-free.app/?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing%20bugs%20in" />
+<img style="width:40%;margin:auto;" src="https://c765-27-125-168-149.ngrok-free.app/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide=python,jupyter%20notebook,html,matlab&hide_border=true&custom_title=Currently%20work%20with" />
 
 <img style="width:85%;margin:auto;" src="https://github-widya-stats-widyaageng.vercel.app/api/wakatime?username=widyaageng&langs_count=10&hide_border=true&hide=restructuredtext&custom_title=Hours%20of%20Desperation%20(Wakatime)&theme=gotham" />
 </div>
