@@ -1,6 +1,6 @@
 
 <div align="center">
-<img style="width:45%;margin:auto;" src="https://github-widya-stats.vercel.app/api?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=Introducing%20bugs%20in" />
+<img style="width:45%;margin:auto;" src="https://github-widya-stats.vercel.app/api?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=My%20current%20github%20state" />
 <img style="width:40%;margin:auto;" src="https://github-widya-stats.vercel.app/api/top-langs/?username=widyaageng&layout=compact&theme=gotham&hide=python,jupyter%20notebook,html,matlab&hide_border=true&custom_title=Most%20of%20the%20craps%20here%20written%20in" />
 
 <img style="width:85%;margin:auto;" src="https://github-widya-stats.vercel.app/api/wakatime?username=widyaageng&langs_count=10&hide_border=true&hide=restructuredtext&custom_title=Hours%20Complaining%20About%20Stuff%20In&theme=gotham" />
