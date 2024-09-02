@@ -31,10 +31,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&logoColor=FF7728)
 
-## What I do?
+## What do I do as a Fullstonk enyineur?
 - Backend
 - Frontend
-- MiddleEnd
-- Endend
-- TheOtherEnd
-- EndFastGGWP
+- Weekend
+- Sufferattheend
+- Neverend
