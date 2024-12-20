@@ -1,9 +1,8 @@
 
 <div align="center">
-<img style="width:45%;margin:auto;" src="https://github-widya-stats.vercel.app/api?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=My%20current%20github%20state" />
-<img style="width:40%;margin:auto;" src="https://github-widya-stats.vercel.app/api/top-langs/?username=widyaageng&card_width=420&layout=compact&theme=gotham&hide=jupyter%20notebook,html,matlab&hide_border=true&custom_title=Most%20craps%20written%20in" />
-
+<img style="width:85%;margin:auto;" src="https://github-widya-stats.vercel.app/api/top-langs/?username=widyaageng&card_width=420&layout=compact&theme=gotham&hide=jupyter%20notebook,html,matlab&hide_border=true&custom_title=Most%20craps%20written%20in" />
 <img style="width:85%;margin:auto;" src="https://github-widya-stats.vercel.app/api/wakatime?username=widyaageng&langs_count=10&hide_border=true&hide=restructuredtext&custom_title=Hours%20Complaining%20About%20Stuff%20In&theme=gotham" />
+<img style="width:50%;margin:auto;" src="https://github-widya-stats.vercel.app/api?username=widyaageng&count_private=true&cache_seconds=14400&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&custom_title=My%20current%20github%20state" />
 </div>
 <br>
 <br>
