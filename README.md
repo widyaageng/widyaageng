@@ -29,10 +29,10 @@
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764abc)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=Pytorch&logoColor=FF7728)
-
+<!--
 ## What do I do as a Fullstonk enyineur?
 - Backend
 - Frontend
 - Weekend
 - Sufferattheend
-- Neverend
+- Neverend-->
